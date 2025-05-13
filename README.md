@@ -75,9 +75,11 @@ pip install openai pillow
 
 ---
 
-## ✍️ Autor
+## 🤝 Conecta conmigo
 
-Desarrollado por [Miguel Cotrina](https://www.linkedin.com/in/mcotrina/)  
-Arquitecto de Datos & Profesor de IA
+Gracias por revisar este repositorio.  
+Si te interesa colaborar, aprender más o invitarme a dar una charla, puedes escribirme o seguirme en LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mcotrina/)
 
 > IA & Data con propósito
